@@ -1,0 +1,4 @@
+Enter details for student 1:
+Enter details for student 2:
+Enter details for student 3:
+Two or more students have the highest math marks.
